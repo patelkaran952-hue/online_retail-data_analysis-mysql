@@ -176,15 +176,6 @@ GROUP BY o.customer_id;
  ┣ 📄 data_cleaning.sql
  ┣ 📄 analysis_queries.sql
  ┗ 📄 dataset.csv
-```
-
----
-
-## 🌟 Future Improvements
-
-* Build interactive dashboard using Power BI / Tableau
-* Add customer segmentation visualization
-* Perform cohort analysis
 
 ---
 
